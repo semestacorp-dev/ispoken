@@ -1,0 +1,7 @@
+{
+  "name": "ispoken.co",
+  "description": "Solusi pengisi suara AI tercanggih untuk pemasaran media sosial. Deskripsikan karakter Anda dan biarkan AI kami memilihkan suara terbaik untuk konten Anda.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
